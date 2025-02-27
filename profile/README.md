@@ -24,8 +24,8 @@ alt="Sérgio Github Streak">
 ## Luis
 
 <center>
-<a href="https://github.com/luis-ec">
-<img src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=luis-ec&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
+<a href="https://github.com/cassimirodev">
+<img src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=cassimirodev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
 alt="Luis Github Streak">
 </a>
 </center>
