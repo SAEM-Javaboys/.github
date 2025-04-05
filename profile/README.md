@@ -30,6 +30,15 @@ alt="Luis Github Streak">
 </a>
 </center>
 
+## Pedro
+
+<center>
+<a href="https://github.com/pedrodelesporte">
+<img src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=pedrodelesporte&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
+alt="Luis Github Streak">
+</a>
+</center>
+
 ## Ranieery
 
 <center>
