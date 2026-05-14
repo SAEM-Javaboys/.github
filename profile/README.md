@@ -41,7 +41,7 @@ alt="Luis Github Streak">
 </a>
 </center>
 
-## Ranieery
+## Raniery
 
 <center>
 <a href="https://github.com/Ranieeery">
