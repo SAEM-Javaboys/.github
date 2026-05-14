@@ -14,7 +14,7 @@ alt="Arthur Github Streak">
 </a>
 </center>
 
-## Esejay
+## Sérgio Júnior (a.k.a. SJ)
 
 <center>
 <a href="https://github.com/sergiojdev">
