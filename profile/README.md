@@ -7,7 +7,9 @@ Check out the streak stats of our group members:
 
 <center>
 <a href="https://github.com/yArthu" style="text-align:center">
-<img src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=yArthu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
+<img src="https://streak-stats.demolab.com/?user=yArthu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
+alt="Arthur Github Streak">
+<img src="https://streak-stats.demolab.com/?user=arthursptech&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
 alt="Arthur Github Streak">
 </a>
 </center>
@@ -15,8 +17,8 @@ alt="Arthur Github Streak">
 ## Esejay
 
 <center>
-<a href="https://github.com/serjaobd">
-<img src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=serjaobd&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
+<a href="https://github.com/sergiojdev">
+<img src="https://streak-stats.demolab.com/?user=sergiojdev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
 alt="Sérgio Github Streak">
 </a>
 </center>
@@ -24,8 +26,8 @@ alt="Sérgio Github Streak">
 ## Luis
 
 <center>
-<a href="https://github.com/cassimirodev">
-<img src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=cassimirodev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
+<a href="https://github.com/eduaardodev">
+<img src="https://streak-stats.demolab.com/?user=eduaardodev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
 alt="Luis Github Streak">
 </a>
 </center>
@@ -34,7 +36,7 @@ alt="Luis Github Streak">
 
 <center>
 <a href="https://github.com/pedrodelesporte">
-<img src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=pedrodelesporte&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
+<img src="https://streak-stats.demolab.com/?user=pedrodelesporte&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
 alt="Luis Github Streak">
 </a>
 </center>
@@ -43,7 +45,7 @@ alt="Luis Github Streak">
 
 <center>
 <a href="https://github.com/Ranieeery">
-<img src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=Ranieeery&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
+<img src="https://streak-stats.demolab.com/?user=Ranieeery&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
 alt="Arthur Github Streak">
 </a>
 </center>
