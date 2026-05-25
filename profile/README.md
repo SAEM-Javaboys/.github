@@ -9,6 +9,8 @@ Check out the streak stats of our group members:
 <a href="https://github.com/yArthu" style="text-align:center">
 <img src="https://streak-stats.demolab.com/?user=yArthu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
 alt="Arthur Github Streak">
+</a>
+<a href="https://github.com/arthursptech" style="text-align:center">
 <img src="https://streak-stats.demolab.com/?user=arthursptech&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
 alt="Arthur Github Streak">
 </a>
